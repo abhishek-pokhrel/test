@@ -1,0 +1,10 @@
+1. cd: It changes the directory in the system.
+2. ls: It lists directory contents.
+3. cp: It copies files.
+4. pwd: It prints current working directory.
+5. rmdir: It removes the directory if it exists.
+6. mkdir: It creates the directory.
+7. chmod: It changes the file permission.
+8. cat: It concatenate files and display their contents.
+9. wc: It counts lines, words and characters.
+10. man: It displays manual page of a command.
